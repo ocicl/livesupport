@@ -4,6 +4,6 @@ Some helpers that may make livecoding with slime/sly a little easier.
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/cbaggers/livesupport |
-| commit  | bda4f54                                     |
+| commit  | 10981e2                                     |
 | systems | livesupport                                 |
 |---------+---------------------------------------------|
